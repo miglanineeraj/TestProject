@@ -49,4 +49,4 @@ Projektet visar också hur samma analysklass kan användas på tre sätt: direkt
 Det svåraste var att få servrarna att fungera inuti notebooken. Filservern (port 8000) och API:et (port 5000) körs i bakgrundstrådar, och om en port redan är upptagen eller cellerna körs i fel ordning slutar det fungera. Därför lade jag till en cell som stoppar båda servrarna. Nästa gång skulle jag lägga till automatiska tester och en lista över tillåtna domäner i API:et, eftersom det annars hämtar vilken länk som helst, samt stöd för frågor som `count by department`.
 
 ## GitHub-länk
-https://github.com/<ditt-användarnamn>/<repo-namn>
+https://github.com/miglanineeraj/TestProject
